@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sweta07as
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently Data Structures and Algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 To reach me, here is my mail id: kumarisweta.as@gmail.com
 
 <!---
